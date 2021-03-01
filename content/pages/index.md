@@ -233,7 +233,7 @@ sections:
 
 
           **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
+        image: images/about-1.jpg
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
